@@ -14,7 +14,7 @@ para ello
 
 (2) en el explorador entra a .ssh, es posible que te diga que no tienes permisos, pero si eres administrador entoces dile que te de permisos
 
-(3) una vez que puedas entrar a la carpeta prueba que funcione, abriendo una bentana de cmd (no como administrador) y trata de conectarete a tu servidor
+(3) una vez que puedas entrar a la carpeta prueba que funcione, abriendo una ventana de cmd (no como administrador) y trata de conectarete a tu servidor
 
 ssh prueba@mi.servidor.com -A
 
